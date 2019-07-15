@@ -6,8 +6,10 @@ A convolutional neural network model for live facial expression recognition usin
 Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Communications Engineering Hankuk University of Foreign Studies
 
 # System Architecture
+![](https://github.com/asherchoi/Emotion-Predict/blob/master/system architecture.png)
 
 ## System Demonstration
+![](https://github.com/asherchoi/Emotion-Predict/blob/master/demo.png)
 
 ## Development Environment
 #### Client part
