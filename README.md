@@ -15,6 +15,7 @@ Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Com
   - OS : Window10 64bit
   - Hardware : Microsoft kinect v2 moiton senser wired
   - Reference SDK : [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+</br>
 **Server part**
   - PL : Anaconda with Python3.7.2
   - OS : Linux Ubuntu 16.04 LTS 64bit
