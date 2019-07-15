@@ -9,8 +9,16 @@ Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Com
 
 ## System Demonstration
 
-## System Specification
-
-
-
+## Development Environment
+*Client part
+  - PL : C#
+  - OS : Window10 64bit
+  - Hardware : Microsoft kinect v2 moiton senser wired
+  - Reference SDK : [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+*Server part
+  - PL : Anaconda with Python3.7.2
+  - OS : Linux Ubuntu 16.04 LTS 64bit
+  - Deep Learning Framework: Keras 3.0 Tensorflow backend
+  - Deep Learning Library & Package : Scikit learn 0.21.1 / Numpy 1.16.2 / Matplotlib 3.0.3 / Pandas 0.24.2
+  - 
 
