@@ -6,6 +6,8 @@ A convolutional neural network model for live facial expression recognition usin
 Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Communications Engineering Hankuk University of Foreign Studies
 
 # Demo System Architecture
+[client](https://github.com/asherchoi/emotion-predict-client)
+[server](https://github.com/asherchoi/emotion-predict-server)
 ![](https://github.com/asherchoi/Emotion-Predict/blob/master/system%20architecture.PNG)
 
 ## Demo Client
@@ -14,14 +16,12 @@ Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Com
 ## Development Environment
 #### Client part
   + PL : C#
-  + Source : [client](https://github.com/asherchoi/emotion-predict-client)
   + OS : Window10 64bit
   + Hardware : Microsoft kinect v2 moiton senser wired
   + Reference SDK : [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
 #### Server part
   - PL : Anaconda with Python3.7.2
-  - Source : [server](https://github.com/asherchoi/emotion-predict-server)
   - OS : Linux Ubuntu 16.04 LTS 64bit
   - Deep Learning Framework: Keras 3.0 Tensorflow backend
   - Deep Learning Library & Package : Scikit learn 0.21.1 / Numpy 1.16.2 / Matplotlib 3.0.3 / Pandas 0.24.2
