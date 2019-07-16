@@ -13,6 +13,7 @@ Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Com
 
 ## Development Environment
 ### [Client Project](https://github.com/asherchoi/emotion-predict-client) </br>
+![](https://github.com/asherchoi/Emotion-Predict/blob/master/demo.png)
   + PL : C#
   + OS : Window10 64bit
   + Hardware : Microsoft kinect v2 moiton senser wired
@@ -23,8 +24,6 @@ Chung Jae won, Choi Tae Hun, and Jin Pyo Hong, Department of Information and Com
   - Deep Learning Framework: Keras 3.0 Tensorflow backend
   - Deep Learning Library & Package : Scikit learn 0.21.1 / Numpy 1.16.2 / Matplotlib 3.0.3 / Pandas 0.24.2
 
-## Demo Client
-![](https://github.com/asherchoi/Emotion-Predict/blob/master/demo.png)
 
 
 
